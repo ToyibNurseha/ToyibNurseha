@@ -15,7 +15,6 @@ Energetic and curiosity-driven Android Developer who writes quality clean code. 
 
 ## ⚡️ A Few Quick Facts
 
-- 🌱 I’m currently learning Swift and Flutter
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - 📝 Sometimes I write technical blogs and articles
